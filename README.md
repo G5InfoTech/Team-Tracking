@@ -1,4 +1,4 @@
-**Title: Streamlining Team Collaboration: A Guide to Action Item Tracking in Google Sheets**
+### Streamlining Team Collaboration: A Guide to Action Item Tracking in Google Sheets**
 
 In today's fast-paced work environments, effective collaboration and task management are paramount for team success. One powerful tool for streamlining workflows and keeping everyone on the same page is a well-organized action item tracking system. In this post, we'll delve into how you can implement and leverage a Google Sheets-based tracking system to manage action items for your team effectively.
 
